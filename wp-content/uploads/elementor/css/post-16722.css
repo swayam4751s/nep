@@ -1,0 +1,27 @@
+.elementor-16722 .elementor-element.elementor-element-649e628e .elementor-column-gap-custom .elementor-column > .elementor-element-populated{padding:15px;}.elementor-widget-text-editor{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}@media(max-width:1024px){.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}}@media(max-width:767px){.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}}/* Start custom CSS for text-editor, class: .elementor-element-3d8f6c78 */.elementor-16722 .elementor-element.elementor-element-3d8f6c78 .item-instructor {
+    border-radius: var(--thim-border-radius-item, 10px)
+}
+.elementor-16722 .elementor-element.elementor-element-3d8f6c78 .instructor-avatar img {
+    border-radius: 50%;
+}
+.elementor-16722 .elementor-element.elementor-element-3d8f6c78 .lp-list-instructors .ul-list-instructors li.item-instructor .instructor-btn-view {
+    background-color: var(--thim-body-primary-color);
+    color: var(--thim-button-text-color);
+    font-weight: var(--thim-font-title-variant);
+    font-size: 14px;
+}
+.elementor-16722 .elementor-element.elementor-element-3d8f6c78 .lp-list-instructors .ul-list-instructors li.item-instructor .instructor-btn-view:hover {
+    background-color: var(--thim-button-hover-color);
+}
+.elementor-16722 .elementor-element.elementor-element-3d8f6c78 .lp-list-instructors .ul-list-instructors li.item-instructor .instructor-display-name {
+    font-size: var(--thim-font-h4-font-size);
+    font-weight: var(--thim-font-title-variant);
+    text-transform: capitalize;
+}
+.elementor-16722 .elementor-element.elementor-element-3d8f6c78 .instructor-avatar {
+    max-width: 200px;
+    margin: auto;
+}
+.elementor-16722 .elementor-element.elementor-element-3d8f6c78 .lp-list-instructors .ul-list-instructors li.item-instructor .instructor-info {
+    font-size: 14px;
+}/* End custom CSS */

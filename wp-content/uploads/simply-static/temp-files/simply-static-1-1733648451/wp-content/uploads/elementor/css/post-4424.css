@@ -1,0 +1,30 @@
+.elementor-4424 .elementor-element.elementor-element-6d92802 .portfolio-tabs-wapper.filters{text-align:left;}.elementor-4424 .elementor-element.elementor-element-6d92802 .wapper_portfolio .filters{margin:0px 0px 0px 0px;}.elementor-4424 .elementor-element.elementor-element-6d92802 .wapper_portfolio .filters .portfolio-tabs a.filter{font-family:var( --e-global-typography-a539aa8-font-family ), Sans-serif;font-size:var( --e-global-typography-a539aa8-font-size );font-weight:var( --e-global-typography-a539aa8-font-weight );text-transform:var( --e-global-typography-a539aa8-text-transform );line-height:var( --e-global-typography-a539aa8-line-height );}.elementor-4424 .elementor-element.elementor-element-6d92802 .wapper_portfolio .filters .portfolio-tabs a{color:var( --e-global-color-accent );}.elementor-4424 .elementor-element.elementor-element-6d92802  .wapper_portfolio .filters .portfolio-tabs a.active, .elementor-4424 .elementor-element.elementor-element-6d92802 .wapper_portfolio .filters .portfolio-tabs a:hover{color:var( --e-global-color-primary );}.elementor-4424 .elementor-element.elementor-element-6d92802 .wapper_portfolio .filters .portfolio-tabs a.active, .elementor-4424 .elementor-element.elementor-element-6d92802 .wapper_portfolio .filters .portfolio-tabs a:hover{border-color:#02010100;}@media(max-width:1024px){.elementor-4424 .elementor-element.elementor-element-6d92802 .wapper_portfolio .filters .portfolio-tabs a.filter{font-size:var( --e-global-typography-a539aa8-font-size );line-height:var( --e-global-typography-a539aa8-line-height );}}@media(max-width:767px){.elementor-4424 .elementor-element.elementor-element-6d92802 .wapper_portfolio .filters .portfolio-tabs a.filter{font-size:var( --e-global-typography-a539aa8-font-size );line-height:var( --e-global-typography-a539aa8-line-height );}}/* Start custom CSS for thim-portfolio, class: .elementor-element-6d92802 */.wapper_portfolio.gutter .item_portfolio {
+		border-radius: 10px;
+		overflow: hidden !important;
+}
+.wapper_portfolio .portfolio-tabs-wapper.filters li:first-child a {
+    margin-left: 0;
+    padding-left: 0
+}
+.wapper_portfolio .portfolio-tabs-wapper.filters li a {
+    margin: 0;
+}
+.wapper_portfolio .portfolio-tabs-wapper.filters li a:after {
+    content: none;
+}
+.wapper_portfolio .portfolio-tabs-wapper.filters ul.portfolio-tabs {
+    min-width: 500px;
+    border-bottom-width: 1px;
+    margin-bottom: 30px
+} 
+.thim-widget-gallery-posts .wrapper-filter-controls, .wapper_portfolio .portfolio-tabs-wapper.filters {
+    overflow-x: auto;
+}
+@media (max-width: 600px){
+.wapper_portfolio .portfolio-tabs-wapper.filters ul.portfolio-tabs {
+    margin-bottom: 7px;
+}
+.wapper_portfolio .portfolio_column {
+    margin-top: 30px;
+}
+}/* End custom CSS */

@@ -1,0 +1,59 @@
+.elementor-13471 .elementor-element.elementor-element-505b1aa .portfolio-tabs-wapper.filters{text-align:left;}.elementor-13471 .elementor-element.elementor-element-505b1aa .wapper_portfolio .filters{margin:0px 0px 0px 0px;}.elementor-13471 .elementor-element.elementor-element-505b1aa .wapper_portfolio .filters .portfolio-tabs a.filter{font-family:var( --e-global-typography-a539aa8-font-family ), Sans-serif;font-size:var( --e-global-typography-a539aa8-font-size );font-weight:var( --e-global-typography-a539aa8-font-weight );text-transform:var( --e-global-typography-a539aa8-text-transform );line-height:var( --e-global-typography-a539aa8-line-height );}.elementor-13471 .elementor-element.elementor-element-505b1aa .wapper_portfolio .filters .portfolio-tabs a{color:var( --e-global-color-accent );}.elementor-13471 .elementor-element.elementor-element-505b1aa  .wapper_portfolio .filters .portfolio-tabs a.active, .elementor-13471 .elementor-element.elementor-element-505b1aa .wapper_portfolio .filters .portfolio-tabs a:hover{color:var( --e-global-color-primary );}.elementor-13471 .elementor-element.elementor-element-505b1aa .wapper_portfolio .filters .portfolio-tabs a.active, .elementor-13471 .elementor-element.elementor-element-505b1aa .wapper_portfolio .filters .portfolio-tabs a:hover{border-color:#02010100;}.elementor-13471 .elementor-element.elementor-element-505b1aa .wapper_portfolio.style09 .portfolio-hover .thumb-bg h3 a{font-family:var( --e-global-typography-a539aa8-font-family ), Sans-serif;font-size:var( --e-global-typography-a539aa8-font-size );font-weight:var( --e-global-typography-a539aa8-font-weight );text-transform:var( --e-global-typography-a539aa8-text-transform );line-height:var( --e-global-typography-a539aa8-line-height );color:var( --e-global-color-accent );}.elementor-13471 .elementor-element.elementor-element-505b1aa  .wapper_portfolio.style09 .portfolio-hover .thumb-bg .mask-content .cat_portfolio{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );text-transform:var( --e-global-typography-accent-text-transform );line-height:var( --e-global-typography-accent-line-height );}.elementor-13471 .elementor-element.elementor-element-505b1aa .wapper_portfolio.style09 .portfolio-hover .thumb-bg .mask-content .cat_portfolio a{color:var( --e-global-color-accent );}.elementor-13471 .elementor-element.elementor-element-505b1aa .wapper_portfolio.style09 .portfolio-hover .thumb-bg .mask-content .cat_portfolio a:hover{color:var( --e-global-color-primary );}.elementor-13471 .elementor-element.elementor-element-505b1aa  .wapper_portfolio.style09 .portfolio-hover .thumb-bg .mask-content .description{font-family:var( --e-global-typography-9f04992-font-family ), Sans-serif;font-size:var( --e-global-typography-9f04992-font-size );font-weight:var( --e-global-typography-9f04992-font-weight );line-height:var( --e-global-typography-9f04992-line-height );}.elementor-13471 .elementor-element.elementor-element-505b1aa .wapper_portfolio.style09 .portfolio-hover .thumb-bg .mask-content .description{-webkit-line-clamp:3;}@media(max-width:1024px){.elementor-13471 .elementor-element.elementor-element-505b1aa .wapper_portfolio .filters .portfolio-tabs a.filter{font-size:var( --e-global-typography-a539aa8-font-size );line-height:var( --e-global-typography-a539aa8-line-height );}.elementor-13471 .elementor-element.elementor-element-505b1aa .wapper_portfolio.style09 .portfolio-hover .thumb-bg h3 a{font-size:var( --e-global-typography-a539aa8-font-size );line-height:var( --e-global-typography-a539aa8-line-height );}.elementor-13471 .elementor-element.elementor-element-505b1aa  .wapper_portfolio.style09 .portfolio-hover .thumb-bg .mask-content .cat_portfolio{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-13471 .elementor-element.elementor-element-505b1aa  .wapper_portfolio.style09 .portfolio-hover .thumb-bg .mask-content .description{font-size:var( --e-global-typography-9f04992-font-size );line-height:var( --e-global-typography-9f04992-line-height );}}@media(max-width:767px){.elementor-13471 .elementor-element.elementor-element-505b1aa .wapper_portfolio .filters .portfolio-tabs a.filter{font-size:var( --e-global-typography-a539aa8-font-size );line-height:var( --e-global-typography-a539aa8-line-height );}.elementor-13471 .elementor-element.elementor-element-505b1aa .wapper_portfolio.style09 .portfolio-hover .thumb-bg h3 a{font-size:var( --e-global-typography-a539aa8-font-size );line-height:var( --e-global-typography-a539aa8-line-height );}.elementor-13471 .elementor-element.elementor-element-505b1aa  .wapper_portfolio.style09 .portfolio-hover .thumb-bg .mask-content .cat_portfolio{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-13471 .elementor-element.elementor-element-505b1aa  .wapper_portfolio.style09 .portfolio-hover .thumb-bg .mask-content .description{font-size:var( --e-global-typography-9f04992-font-size );line-height:var( --e-global-typography-9f04992-line-height );}}/* Start custom CSS for thim-portfolio, class: .elementor-element-505b1aa */.wapper_portfolio.gutter .item_portfolio {
+		border-radius: 10px;
+		overflow: hidden !important;
+}
+.wapper_portfolio .portfolio-tabs-wapper.filters li:first-child a {
+    margin-left: 0;
+    padding-left: 0
+}
+.wapper_portfolio .portfolio-tabs-wapper.filters li a {
+    margin: 0;
+}
+.wapper_portfolio .portfolio-tabs-wapper.filters li a:after {
+    content: none;
+}
+.wapper_portfolio .portfolio-tabs-wapper.filters ul.portfolio-tabs {
+     min-width: 500px;
+     border-bottom-width: 1px;
+     margin-bottom: 30px
+}
+.thim-widget-gallery-posts .wrapper-filter-controls, .wapper_portfolio .portfolio-tabs-wapper.filters {
+    overflow-x: auto;
+}
+@media (max-width: 600px){
+.wapper_portfolio .portfolio-tabs-wapper.filters ul.portfolio-tabs {
+    margin-bottom: 7px;
+}
+.wapper_portfolio .portfolio_column {
+    margin-top: 30px;
+}
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-8dba770 */.widget-area aside.widget .widget-title {
+		font-size: var(--thim-font-h4-font-size);
+		text-transform: capitalize;
+		font-weight: var(--thim-font-title-variant);
+}
+.widget-area aside img {
+    border-radius: var(--thim-border-radius-item, 10px);
+}
+.thim-list-posts.sidebar .article-title-wrapper a {
+    font-weight: 500;
+}
+.thim-list-posts.sidebar .article-title-wrapper .article-date {
+    font-size: 14px;
+    font-weight: 400
+}
+.thim-list-posts.sidebar .article-title-wrapper .article-date span{
+    color: #444
+}
+.widget-area .thim-course-list-sidebar .lpr_course .thim-course-content .course-title {
+    overflow: hidden;
+   display: -webkit-box;
+   -webkit-line-clamp: 2; /* number of lines to show */
+           line-clamp: 2; 
+   -webkit-box-orient: vertical;
+   font-weight: 500;
+}
+.widget-area .thim-course-list-sidebar .course-price .value {
+    color: var(--thim-body-primary-color) !important;
+}/* End custom CSS */

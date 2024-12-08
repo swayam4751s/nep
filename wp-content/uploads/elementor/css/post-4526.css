@@ -1,0 +1,37 @@
+/* Start custom CSS for thim-gallery-posts, class: .elementor-element-02745ca */.elementor-4526 .elementor-element.elementor-element-02745ca.thim-widget-gallery-posts .wrapper-filter-controls {
+    text-align: left;
+}
+.thim-widget-gallery-posts .wrapper-filter-controls li a {
+    font-weight: var(--thim-font-title-variant);
+    font-size: var(--thim-font-h4-font-size);
+    border: none !important;
+    margin:  0;
+    color: var(--thim-font-title-color);
+}
+.thim-widget-gallery-posts .wrapper-filter-controls li a:after{
+    content: none;
+}
+.thim-widget-gallery-posts .wrapper-filter-controls li a.active, .thim-widget-gallery-posts .wrapper-filter-controls li a:hover {
+    color: var(--thim-body-primary-color);
+}
+
+.thim-widget-gallery-posts .wrapper-filter-controls li:first-child a {
+    margin-left: 0;
+    padding-left: 0
+}
+.thim-widget-gallery-posts .wrapper-filter-controls ul.filter-controls {
+    min-width: 500px;
+    border-bottom-width: 1px;
+    margin-bottom: 30px;
+} 
+.thim-widget-gallery-posts .wrapper-filter-controls{
+    overflow-x: auto
+}
+@media (max-width: 600px){
+.thim-widget-gallery-posts .wrapper-filter-controls ul.filter-controls {
+    margin-bottom: 7px;
+}
+.thim-widget-gallery-posts .wrapper-gallery-filter {
+    margin-top: 30px;
+}
+}/* End custom CSS */
